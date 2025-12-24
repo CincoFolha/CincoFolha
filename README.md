@@ -14,22 +14,57 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas
 - 📫 Como me encontrar: pedro.pardim.pc@email.com
 - ⚡ Curiosidade: Adoro café e música eletrônica
 
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CincoFolha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CincoFolha&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<p align="center">
+  <a href="https://github.com/CincoFolha">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CincoFolha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CincoFolha&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CincoFolha&theme=algolia" alt="CincoFolha" />
+</p>
+
+## 🚀 Projetos em Destaque
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CincoFolha&theme=tokyonight" alt="GitHub Streak"/>
+  
+[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_REPO&theme=tokyonight)](https://github.com/SEU_USERNAME/NOME_REPO)
+[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_REPO2&theme=tokyonight)](https://github.com/SEU_USERNAME/NOME_REPO2)
+
 </div>
-
-## Tecnologias que uso
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ## Estatísticas
 
