@@ -45,10 +45,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CincoFolha&theme=algolia" alt="CincoFolha" />
-</p>
-
 ## 🚀 Projetos em Destaque
 
 <div align="center">
