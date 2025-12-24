@@ -48,8 +48,9 @@
 ## 🚀 Projetos em Destaque
 
 <div align="center">
-  
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_REPO&theme=tokyonight)](https://github.com/SEU_USERNAME/NOME_REPO)
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_REPO2&theme=tokyonight)](https://github.com/SEU_USERNAME/NOME_REPO2)
+
+[![Repositórios](https://img.shields.io/badge/-Ver%20Todos%20os%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CincoFolha?tab=repositories)
 
 </div>
+
+<br>
