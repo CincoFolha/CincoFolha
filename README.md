@@ -1,4 +1,7 @@
-# Olá! 👋 Sou Pedro Henrique
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Olá!+👋+Bem-vindo+ao+meu+perfil;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia" alt="Typing SVG" />
+</div>
+
 
 ## Sobre mim
 - 🔭 Trabalhando atualmente em projetos de IA
