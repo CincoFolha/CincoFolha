@@ -21,6 +21,10 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CincoFolha&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CincoFolha&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
 ## Tecnologias que uso
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
