@@ -14,6 +14,13 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas
 - 📫 Como me encontrar: pedro.pardim.pc@email.com
 - ⚡ Curiosidade: Adoro café e música eletrônica
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 ## Tecnologias que uso
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
