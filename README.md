@@ -54,3 +54,11 @@
 </div>
 
 <br>
+
+<div align="center">
+  
+### 💙 Obrigado pela visita!
+  
+![](https://komarev.com/ghpvc/?username=CincoFolha&color=blue&style=flat-square)
+
+</div>
