@@ -49,7 +49,13 @@
 
 <div align="center">
 
-[![Repositórios](https://img.shields.io/badge/-Ver%20Todos%20os%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CincoFolha?tab=repositories)
+[![DB Backup CLI](https://img.shields.io/badge/🗄️_DB_Backup_CLI-Ferramenta_CLI_para_backup_de_databases-2ea44f?style=for-the-badge&logo=postgresql)](https://github.com/CincoFolha/db-backup-cli)
+
+[![Stories App](https://img.shields.io/badge/📱_Stories_App-Aplicativo_de_histórias_interativas-5865F2?style=for-the-badge&logo=react)](https://github.com/CincoFolha/Stories-App)
+
+<br>
+
+[![Ver Todos](https://img.shields.io/badge/-Ver%20Todos%20os%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CincoFolha?tab=repositories)
 
 </div>
 
